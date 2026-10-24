@@ -11,10 +11,11 @@ An end-to-end Business Intelligence project analyzing e-commerce user behavior, 
 
 ## Project Overview
 This repository contains a comprehensive data analytics and business intelligence solution designed to evaluate an online electronics store's performance. By examining user event logs, this project uncovers critical funnel drop-offs, hourly traffic patterns, and high-risk product categories to deliver actionable business recommendations.
+
 ---
 
 ##  Dashboard Preview
-![Power BI Dashboard Preview](Dashboard/E-Commerce Funnel & Behavior Analysis.png)
+![Power BI Dashboard Preview](Dashboard/E-Commerce%20Funnel%20&%20Behavior%20Analysis.png)
 
 ---
 
